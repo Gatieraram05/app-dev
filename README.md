@@ -1,2 +1,7 @@
 # app-dev
-My first repository
+## My Favorite Series
+- Study Group
+- The Witcher
+- Black Clover
+
+
